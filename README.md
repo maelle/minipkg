@@ -11,7 +11,9 @@ The goal of minipkg is to tell you what time it is.
 
 ## Installation
 
-TODO: update.
+``` r
+remotes::install_github("maelle/minipkg")
+```
 
 ## Example
 
@@ -20,5 +22,5 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(minipkg)
 what_time(language = "en")
-#> [1] "Wowie! It is 16:10 now!"
+#> [1] "Ah! It is 16:12 now!"
 ```

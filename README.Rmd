@@ -22,7 +22,9 @@ The goal of minipkg is to tell you what time it is.
 
 ## Installation
 
-TODO: update.
+```r
+remotes::install_github("maelle/minipkg")
+```
 
 ## Example
 
